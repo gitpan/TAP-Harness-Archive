@@ -1,9 +1,8 @@
 Build.PL
 Changes
 lib/TAP/Harness/Archive.pm
-MANIFEST
-META.yml			# Will be created by "make dist"
-README
+Makefile.PL
+MANIFEST			This list of files
 t/archive.t
 t/bar.t
 t/extra_files.t
@@ -15,3 +14,6 @@ t/foo.t
 t/pod-coverage.t
 t/pod.t
 TODO
+README
+META.yml
+META.json

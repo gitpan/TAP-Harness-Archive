@@ -103,22 +103,27 @@ SUPPORT
 
     You can also look for information at:
 
-    * AnnoCPAN: Annotated CPAN documentation
+    *   AnnoCPAN: Annotated CPAN documentation
+
         <http://annocpan.org/dist/TAP-Harness-Archive>
 
-    * CPAN Ratings
+    *   CPAN Ratings
+
         <http://cpanratings.perl.org/d/TAP-Harness-Archive>
 
-    * RT: CPAN's request tracker
+    *   RT: CPAN's request tracker
+
         <http://rt.cpan.org/NoAuth/Bugs.html?Dist=TAP-Harness-Archive>
 
-    * Search CPAN
+    *   Search CPAN
+
         <http://search.cpan.org/dist/TAP-Harness-Archive>
 
 ACKNOWLEDGEMENTS
-    * A big thanks to Plus Three, LP (<http://www.plusthree.com>) for
-    sponsoring my work on this module and other open source pursuits.
-    * Andy Armstrong
+    *   A big thanks to Plus Three, LP (<http://www.plusthree.com>) for
+        sponsoring my work on this module and other open source pursuits.
+
+    *   Andy Armstrong
 
 COPYRIGHT & LICENSE
     Copyright 2007 Michael Peters, all rights reserved.
